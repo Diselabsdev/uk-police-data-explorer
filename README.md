@@ -115,7 +115,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you encounter any issues or have questions:
 1. Check the [Issues](https://github.com/Diselabsdev/uk-police-data-explorer/issues) page
 2. Create a new issue with a detailed description
-3. Contact the maintainers at mail.amalviju@gmail.com
+3. Contact the maintainers at info@diselabs.com
 
 ---
 Made with ❤️ by Diselabs
